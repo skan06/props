@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color: black;
+  height: 1000px;
+}
+
+.one {
+  display: flex;
+  margin-top: 147px;
+}
+.tox{
+  text-align: center;
+}
+.toy{
+  padding: 70px;
+}
+.w-100 {
+    width: 100%!important;
+}
